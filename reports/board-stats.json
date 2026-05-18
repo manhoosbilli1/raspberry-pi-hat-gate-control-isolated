@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "date": "2026-05-18T04:23:29",
+    "generator": "KiCad 10.0.1",
+    "project": "GATE CONTROL HAT v1.2",
+    "board_name": "GATE CONTROL HAT v1.2"
+  },
+  "board": {
+    "has_outline": true,
+    "width": "65.0000 mm",
+    "height": "56.0000 mm",
+    "area": "3547.261 mm²",
+    "front_component_density": "6.90",
+    "back_component_density": "9.53",
+    "front_copper_area": "111.796 mm²",
+    "back_copper_area": "111.796 mm²",
+    "min_track_clearance": "2147.4836 mm",
+    "min_track_width": "2147.4836 mm",
+    "min_drill_diameter": "1.0000 mm",
+    "board_thickness": "1.6000 mm",
+    "front_footprint_area": "244.936 mm²",
+    "back_footprint_area": "338.059 mm²",
+    "front_footprint_density": "6.90",
+    "back_footprint_density": "9.53"
+  },
+  "pads": {
+    "through_hole": 40,
+    "smd": 0,
+    "connector": 0,
+    "npth": 4,
+    "castellated": 0,
+    "press_fit": 0
+  },
+  "vias": {
+    "through": 0,
+    "blind": 0,
+    "buried": 0,
+    "micro": 0
+  },
+  "components": {
+    "tht": {
+      "front": 0,
+      "back": 1,
+      "total": 1
+    },
+    "smd": {
+      "front": 0,
+      "back": 0,
+      "total": 0
+    },
+    "unspecified": {
+      "front": 4,
+      "back": 0,
+      "total": 4
+    },
+    "total": {
+      "front": 4,
+      "back": 1,
+      "total": 5
+    }
+  },
+  "drill_holes": [
+    {
+      "count": 40,
+      "shape": "Round",
+      "x_size": "1.0000 mm",
+      "y_size": "1.0000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 4,
+      "shape": "Round",
+      "x_size": "2.7000 mm",
+      "y_size": "2.7000 mm",
+      "plated": false,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    }
+  ]
+}
